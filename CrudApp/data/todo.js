@@ -1,52 +1,52 @@
 export const data = [
     {
         id: 1,
-        title: "Buy groceries",
+        title: "Let's Build it!",
         completed: false
     },
     {
         id: 2,
-        title: "Finish homework",
+        title: "Simplifying order process",
         completed: true
     },
     {
         id: 3,
-        title: "Call the bank",
+        title: "Increase Sales",
         completed: false
     },
     {
         id: 4,
-        title: "Clean the house",
+        title: "Best value for Buyer & Seller ",
         completed: false
     },
     {
         id: 5,
-        title: "Read a book",
-        completed: true
+        title: "Simplifying Logistics",
+        completed: false
     },
     {
         id: 6,
-        title: "Exercise",
+        title: "Build Ecosystem",
         completed: false
     },
     {
         id: 7,
-        title: "Prepare dinner",
+        title: "Let's Make Connection & Digitize Farming",
         completed: false
     },
     {
         id: 8,
-        title: "Walk the dog",
+        title: "Simplifying Farming",
         completed: true
     },
     {
         id: 9,
-        title: "Water the plants",
-        completed: false
+        title: "Increase Valuation",
+        completed: true
     },
     {
         id: 10,
-        title: "Pay bills",
+        title: "To Make OneRoot Profitable",
         completed: true
     }
 ];
